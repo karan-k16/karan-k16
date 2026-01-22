@@ -1,5 +1,6 @@
 # 💫 About Me:
-👋 Hi, I'm Karan Kardam<br><br>🎓 Computer Engineering student at the University of Toronto  <br>🧠 Minoring in Artificial Intelligence and Engineering Business  <br>💻 Software Engineer Intern @ Foresters Financial
+👋 Hi, I'm Karan Kardam<br><br>🎓 Computer Engineering student at the University of Toronto  <br>🧠 Minoring in Artificial Intelligence and Engineering Business  <br><img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/94585d80-dafc-4c7e-b262-7960b36246b8" />
+ Incoming Software Engineer Intern @ Microsoft  <br>💻 Software Engineer Intern @ Foresters Financial
 
 
 ## 🌐 Socials:
