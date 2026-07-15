@@ -73,6 +73,6 @@
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://github-tracker-seven.vercel.app?user=karan-k16)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-tracker-seven.vercel.app?user=karan-k16&theme=dark)](https://git.io/streak-stats)
 
 <!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
