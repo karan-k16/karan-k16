@@ -4,8 +4,8 @@ Hi, I'm Karan Kardam.
 
 - 🎓 Computer Engineering student at the University of Toronto
 - 🧠 Minoring in Artificial Intelligence and Engineering Business
-- 💻 Software Engineer Intern at Microsoft
-- Previously a Machine Learning Researcher at UofT and Software Engineer Intern at Foresters Financial
+- 💻 Previously a Software Engineer Intern at Microsoft and Foresters Financial
+- Previously a Machine Learning Researcher at UofT
 - Interested in AI/ML systems, distributed systems, performance engineering, and quantitative development
 
 ## 🌐 Socials
